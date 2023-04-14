@@ -12,6 +12,7 @@
 > [下載 MiKTeX](https://cantor.math.ntnu.edu.tw/workshop/animated_math/files/Latex-x64.zip)
 > [下載完成後請以系統管理員執行 install.cmd]
 
+## 建置步驟
 * 創建虛擬環境及 Python 3.10 (或更高版本)
 ```sh
 $ conda create --name ema python=3.10 #創建虛擬環境
