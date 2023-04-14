@@ -28,5 +28,5 @@ $ pip install "manim-voiceover[azure,gtts]" # 注意需要將「電腦設定 →
 $ manim test_ema.py
 ```
 
-##註
+## 註
 已經盡可能把所有安裝過程書寫完善，如有缺漏再麻煩提醒我
