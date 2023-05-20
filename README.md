@@ -23,9 +23,9 @@ $ conda activate ema #啟動虛擬環境
 $ conda install -c conda-forge manim
 $ pip install "manim-voiceover[azure,gtts]" # 注意需要將「電腦設定 → 地區 → UTF-8 全球設定」打勾
 ```
-* 創建動畫及語音
+* 創建動畫及語音，生成的結果會在 Linbot/static 裡
 ```sh
-$ manim test_ema.py
+$ manim with_voice_test.py
 ```
 
 ## 註
